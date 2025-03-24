@@ -17,6 +17,7 @@ public class ItemData
     public int power;
     public int level;
     public bool isStackble;
+    public string iconpath;
 
     //문자열을 열거함으로 변환하는 메서드
     public void initalizeEnums()
